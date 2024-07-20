@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ### Learning Resources
+
+[Chai Aur Code - Javascript Questions Challanges with Solution](https://github.com/nileshrawatp1/Chai-Aur-Code_30-Days-Challenge)
+
 | Language        | Sites                                                      |
 |-----------------|------------------------------------------------------------|
 | HTML            | [learn-html](https://learn-html.org)                       |
