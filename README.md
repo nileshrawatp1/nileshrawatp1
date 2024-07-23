@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ### Learning Resources
 
 [Chai Aur Code - Javascript Questions Challanges with Solution](https://github.com/nileshrawatp1/Chai-Aur-Code_30-Days-Challenge)
+[Create Badges API](https://img.shields.io/badge/Website-Nilesh_Rawat_Portfolio-blue)
 
 | Language        | Sites                                                      |
 |-----------------|------------------------------------------------------------|
