@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 1. [Chai Aur Code - Javascript Questions Challanges with Solution](https://github.com/nileshrawatp1/Chai-Aur-Code_30-Days-Challenge)   
 2. [Create Badges API](https://img.shields.io/badge/Website-Nilesh_Rawat_Portfolio-blue)
+3. [Badges Documention](https://dev.to/envoy_/150-badges-for-github-pnk)
 
 | Language        | Sites                                                      |
 |-----------------|------------------------------------------------------------|
