@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I am a skilled front-end developer with 5+ years of experience crafting user-friendly interfaces using React, Redux, HTML, CSS, and JavaScript. Proven ability to deliver exceptional user experiences and contribute to a successful development team. Integrated different CRMs with Ameyo dialer to manage calls and data. Eager to leverage expertise in integrations, JavaScript, React and other frameworks to tackle new challenges.
+I am a skilled front-end developer with 7+ years of experience crafting user-friendly interfaces using React, Redux, HTML, CSS, and JavaScript. Proven ability to deliver exceptional user experiences and contribute to a successful development team. Integrated different CRMs with Ameyo dialer to manage calls and data. Eager to leverage expertise in integrations, JavaScript, React and other frameworks to tackle new challenges.
 
 * 🌍  I'm based in Delhi,NCR
 * 🖥️  See my portfolio at [My Portfolio](https://nileshrawat.vercel.app/)
