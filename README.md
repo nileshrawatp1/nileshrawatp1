@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=36&pause=500&color=a371f7&center=true&vCenter=true&width=360&height=30&lines=Software%20Developer;Developing%20New%20Things" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=36&pause=500&color=a371f7&center=true&vCenter=true&width=360&height=36&lines=Software%20Developer;Developing%20New%20Things" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
