@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/nileshrawatp1">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=54&height=90&width=826&text=Hello!%F0%9F%91%8BI'm%20Nilesh%20Rawat" alt="Hello! I'm Nilesh Rawat" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=40&height=40&width=826&text=Hello!%F0%9F%91%8BI'm%20Nilesh%20Rawat" alt="Hello! I'm Nilesh Rawat" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=36&pause=500&color=a371f7&center=true&vCenter=true&width=360&height=44&lines=Software%20Developer;Developing%20New%20Things" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=36&pause=500&color=a371f7&center=true&vCenter=true&width=360&height=30&lines=Software%20Developer;Developing%20New%20Things" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
