@@ -12,8 +12,8 @@
 
 I am a skilled front-end developer with 7+ years of experience crafting user-friendly interfaces using React, Redux, Typescript, JavaScript and HTML, CSS. Proven ability to deliver exceptional user experiences and contribute to a successful development team. Integrated different CRMs with Ameyo dialer to manage calls and data. Worked with cognizant project for building real-time stocks buy, sell and purchase application. Eager to leverage expertise in integrations, JavaScript, Typescript, React and other frameworks to tackle new challenges.
 
-🔭 &nbsp;I'm currently working on **[Ecommerce Website](https://bhuppi-ecommerce.vercel.app/)**
-🌱 &nbsp;I'm currently learning **NextJs**
+🔭 &nbsp;I'm currently working on **[Ecommerce Website](https://bhuppi-ecommerce.vercel.app/)**/
+🌱 &nbsp;I'm currently learning **NextJs**/
 💬 &nbsp;Ask me about **React, Typescript, APIs and colaboration**
 
 ### 🛠️ Tech Stack
